@@ -5,4 +5,4 @@
  
  ---
  
- Repositório para guardar todos os exercícios do primeiro período da matéria de Algoritimo e Programação
+ Repositório para guardar todos os exercícios do primeiro 1º da matéria de Algoritimo e Programação.
